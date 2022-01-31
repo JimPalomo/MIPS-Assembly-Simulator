@@ -18,4 +18,7 @@ MIPS Assembly Simulator in Python. The following project takes in MIPS machine c
 4. Run simulator.py and enter desired hex file and output file.
 
 ### Example:
-<!-- ![alt text]() -->
+![alt text](https://github.com/JimPalomo/MIPS-Assembly-Simulator/blob/main/assets/sample-1.png)
+![alt text](https://github.com/JimPalomo/MIPS-Assembly-Simulator/blob/main/assets/sample-2.png)
+![alt text](https://github.com/JimPalomo/MIPS-Assembly-Simulator/blob/main/assets/sample-3.png)
+![alt text](https://github.com/JimPalomo/MIPS-Assembly-Simulator/blob/main/assets/sample-4.png)
